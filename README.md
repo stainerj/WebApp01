@@ -19,8 +19,6 @@ node --require esbuild-register prisma/seed.ts
 
 Start application with    npm start
 
-Based on App Tutorial (long) https://remix.run/docs/en/main/tutorials/jokes
-
 ==============================================
 
 
